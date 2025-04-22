@@ -5,9 +5,8 @@ This project reads an analog value from a potentiometer using the MCP3008 ADC an
 ## Components Used
 - Raspberry Pi 3B+
 - MCP3008 (10-bit ADC)
-- Potentiometer (10kΩ)
-- LED + 330Ω Resistor (optional)
-- Breadboard & jumper wires
+- Potentiometer
+- LED + Resistor (optional)
 
 ## Circuit Schematic
 The schematic was designed in **EasyEDA**.
